@@ -7,12 +7,6 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 import java.util.List;
 
-/**
- * Author: khamza@nightwell-logistics.com
- * Date: 1/27/2022
- * Time: 7:35 PM
- */
-
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor

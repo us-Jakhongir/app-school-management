@@ -10,11 +10,6 @@ import uz.digitalone.appschoolmanagement.entity.User;
 import uz.digitalone.appschoolmanagement.service.UserService;
 import uz.digitalone.appschoolmanagement.service.impl.UserServiceImpl;
 
-/**
- * Author: khamza@nightwell-logistics.com
- * Date: 1/27/2022
- * Time: 8:04 PM
- */
 
 @RestController
 public class UserController {

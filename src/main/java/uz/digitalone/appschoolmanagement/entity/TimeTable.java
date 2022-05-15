@@ -8,11 +8,6 @@ import uz.digitalone.appschoolmanagement.entity.enums.WeekDays;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
-/**
- * Author: khamza@nightwell-logistics.com
- * Date: 1/27/2022
- * Time: 7:44 PM
- */
 
 @Entity
 @AllArgsConstructor

@@ -8,11 +8,6 @@ import javax.persistence.*;
 import javax.validation.constraints.Size;
 import java.time.LocalDateTime;
 
-/**
- * Author: khamza@nightwell-logistics.com
- * Date: 1/27/2022
- * Time: 7:53 PM
- */
 
 @Entity
 @AllArgsConstructor

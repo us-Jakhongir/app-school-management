@@ -14,11 +14,6 @@ import uz.digitalone.appschoolmanagement.service.UserService;
 
 import java.util.Optional;
 
-/**
- * Author: khamza@nightwell-logistics.com
- * Date: 1/27/2022
- * Time: 8:22 PM
- */
 
 @Service
 public class UserServiceImpl implements UserService {
